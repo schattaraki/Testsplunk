@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Splunk UI Auotmation Suite" duration-ms="488986" started-at="2016-09-05T06:43:07Z" finished-at="2016-09-05T06:51:16Z">
+    <groups>
+      <group name="Sanity">
+        <method signature="CreateUserGroupTest.tesetVerifyLandingPage(java.lang.String)[pri:0, instance:com.usergroups.tests.CreateUserGroupTest@2d8ca1e3]" name="tesetVerifyLandingPage" class="com.usergroups.tests.CreateUserGroupTest"/>
+        <method signature="CreateUserGroupTest.testVerifyCreateEventFuntionality(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.usergroups.tests.CreateUserGroupTest@2d8ca1e3]" name="testVerifyCreateEventFuntionality" class="com.usergroups.tests.CreateUserGroupTest"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="CreateUserGroupTest.tesetVerifyLandingPage(java.lang.String)[pri:0, instance:com.usergroups.tests.CreateUserGroupTest@2d8ca1e3]" name="tesetVerifyLandingPage" class="com.usergroups.tests.CreateUserGroupTest"/>
+        <method signature="CreateUserGroupTest.testVerifyCreateEventFuntionality(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.usergroups.tests.CreateUserGroupTest@2d8ca1e3]" name="testVerifyCreateEventFuntionality" class="com.usergroups.tests.CreateUserGroupTest"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test name="User Groups Test cases" duration-ms="488986" started-at="2016-09-05T06:43:07Z" finished-at="2016-09-05T06:51:16Z">
+      <class name="com.usergroups.tests.CreateUserGroupTest">
+        <test-method status="PASS" signature="prepareBeforeSuite()[pri:0, instance:com.usergroups.tests.CreateUserGroupTest@2d8ca1e3]" name="prepareBeforeSuite" is-config="true" duration-ms="17684" started-at="2016-09-05T12:12:50Z" finished-at="2016-09-05T12:13:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareBeforeSuite -->
+        <test-method status="PASS" signature="prepareBeforeclass()[pri:0, instance:com.usergroups.tests.CreateUserGroupTest@2d8ca1e3]" name="prepareBeforeclass" is-config="true" duration-ms="31" started-at="2016-09-05T12:13:07Z" finished-at="2016-09-05T12:13:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareBeforeclass -->
+        <test-method status="PASS" signature="tesetVerifyLandingPage(java.lang.String)[pri:0, instance:com.usergroups.tests.CreateUserGroupTest@2d8ca1e3]" name="tesetVerifyLandingPage" duration-ms="8116" started-at="2016-09-05T12:13:08Z" data-provider="homePage" finished-at="2016-09-05T12:13:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tesetVerifyLandingPage -->
+        <test-method status="PASS" signature="prepareBeforeMethod()[pri:0, instance:com.usergroups.tests.CreateUserGroupTest@2d8ca1e3]" name="prepareBeforeMethod" is-config="true" duration-ms="0" started-at="2016-09-05T12:13:16Z" finished-at="2016-09-05T12:13:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareBeforeMethod -->
+        <test-method status="PASS" signature="testVerifyCreateEventFuntionality(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.usergroups.tests.CreateUserGroupTest@2d8ca1e3]" name="testVerifyCreateEventFuntionality" duration-ms="93940" started-at="2016-09-05T12:13:16Z" data-provider="homePage" finished-at="2016-09-05T12:14:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mathakur]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mdt@2014]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hyderabad, Telangana, India]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sample event for testing ]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Sample event for testing  description]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Thane]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[pune]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVerifyCreateEventFuntionality -->
+        <test-method status="PASS" signature="prepareBeforeMethod()[pri:0, instance:com.usergroups.tests.CreateUserGroupTest@2d8ca1e3]" name="prepareBeforeMethod" is-config="true" duration-ms="1" started-at="2016-09-05T12:14:50Z" finished-at="2016-09-05T12:14:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareBeforeMethod -->
+        <test-method status="PASS" signature="testVerifyCreateEventFuntionality(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.usergroups.tests.CreateUserGroupTest@2d8ca1e3]" name="testVerifyCreateEventFuntionality" duration-ms="115143" started-at="2016-09-05T12:14:50Z" data-provider="homePage" finished-at="2016-09-05T12:16:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mathakur]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mdt@2014]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Thane Maharashtra, India]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sample event for testing ]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Sample event for testing  description]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Mumbai]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Mysore]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVerifyCreateEventFuntionality -->
+        <test-method status="PASS" signature="testVerifyCreateEventFuntionality(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.usergroups.tests.CreateUserGroupTest@2d8ca1e3]" name="testVerifyCreateEventFuntionality" duration-ms="106323" started-at="2016-09-05T12:16:45Z" data-provider="homePage" finished-at="2016-09-05T12:18:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mathakur]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mdt@2014]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Thane Maharashtra, India]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sample event for testing ]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Sample event for testing  description]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Thane]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVerifyCreateEventFuntionality -->
+        <test-method status="PASS" signature="prepareBeforeMethod()[pri:0, instance:com.usergroups.tests.CreateUserGroupTest@2d8ca1e3]" name="prepareBeforeMethod" is-config="true" duration-ms="0" started-at="2016-09-05T12:16:45Z" finished-at="2016-09-05T12:16:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareBeforeMethod -->
+        <test-method status="PASS" signature="prepareBeforeMethod()[pri:0, instance:com.usergroups.tests.CreateUserGroupTest@2d8ca1e3]" name="prepareBeforeMethod" is-config="true" duration-ms="1" started-at="2016-09-05T12:18:31Z" finished-at="2016-09-05T12:18:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareBeforeMethod -->
+        <test-method status="PASS" signature="testVerifyCreateEventFuntionality(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.usergroups.tests.CreateUserGroupTest@2d8ca1e3]" name="testVerifyCreateEventFuntionality" duration-ms="91058" started-at="2016-09-05T12:18:31Z" data-provider="homePage" finished-at="2016-09-05T12:20:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mathakur]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mdt@2014]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hyderabad, Telangana, India]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sample event for testing ]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Sample event for testing  description]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Thane]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVerifyCreateEventFuntionality -->
+        <test-method status="PASS" signature="prepareBeforeMethod()[pri:0, instance:com.usergroups.tests.CreateUserGroupTest@2d8ca1e3]" name="prepareBeforeMethod" is-config="true" duration-ms="1" started-at="2016-09-05T12:20:02Z" finished-at="2016-09-05T12:20:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareBeforeMethod -->
+        <test-method status="PASS" signature="testVerifyCreateEventFuntionality(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.usergroups.tests.CreateUserGroupTest@2d8ca1e3]" name="testVerifyCreateEventFuntionality" duration-ms="74008" started-at="2016-09-05T12:20:02Z" data-provider="homePage" finished-at="2016-09-05T12:21:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mathakur]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mdt@2014]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hyderabad, Telangana, India]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVerifyCreateEventFuntionality -->
+        <test-method status="PASS" signature="prepareBeforeMethod()[pri:0, instance:com.usergroups.tests.CreateUserGroupTest@2d8ca1e3]" name="prepareBeforeMethod" is-config="true" duration-ms="1" started-at="2016-09-05T12:21:16Z" finished-at="2016-09-05T12:21:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareBeforeMethod -->
+      </class> <!-- com.usergroups.tests.CreateUserGroupTest -->
+    </test> <!-- User Groups Test cases -->
+  </suite> <!-- Splunk UI Auotmation Suite -->
+</testng-results>

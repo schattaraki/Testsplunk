@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='us-ascii'?>
+
+<!--  Financial Suitability State Users  -->
+
+<Test_Data 
+    title="Test Data"
+    author="adhanoa"
+    >
+    <!-- Finanacial Suitability State Users -->
+    <!-- Idaho User -->
+    <idahoUser>
+      <ssn>666559833</ssn>
+      <firstName>MICHAEL</firstName>
+      <familyName>JOYNER</familyName>
+      <dob>02/02/1964</dob>
+      <address>1616 SHETLAND CT</address>
+      <city>MOSCOW</city>
+      <state>ID</state>
+      <zip>83843</zip>
+    </idahoUser>
+    
+    <!-- Missouri User -->
+    <missouriUser>
+      <ssn>666183420</ssn>
+      <firstName>JESSIE</firstName>
+      <familyName>HEATH</familyName>
+      <dob>02/02/1943</dob>
+      <address>3746 GARNER AVE</address>
+      <city>KANSAS CITY</city>
+      <state>MO</state>
+      <zip>64124</zip>
+    </missouriUser>
+
+    <!-- Nevada User -->
+    <nevadaUser>
+      <ssn>666629637</ssn>
+      <firstName>ELLEN</firstName>
+      <familyName>GREEN</familyName>
+      <dob>02/02/1956</dob>
+      <address>2209 BRISTOL BAY CT</address>
+      <city>LAS VEGAS</city>
+      <state>NV</state>
+      <zip>89108</zip>
+    </nevadaUser>
+    
+    <!-- Virginia User -->
+    <virginiaUser>
+      <ssn>666389859</ssn>
+      <firstName>STEVEN</firstName>
+      <familyName>WOOD</familyName>
+      <dob>02/02/1943</dob>
+      <address>570 ROCKBRIDGE DR SE</address>
+      <city>LEESBURG</city>
+      <state>VA</state>
+      <zip>20175</zip>
+    </virginiaUser>
+    
+    <!-- Washington User -->
+    <washingtonUser>
+      <ssn>666656076</ssn>
+      <firstName>GLENN</firstName>
+      <familyName>TATE</familyName>
+      <dob>02/02/1940</dob>
+      <address>112 W FALCON AVE</address>
+      <city>SPOKANE</city>
+      <state>WA</state>
+      <zip>99218</zip>
+    </washingtonUser>
+    
+    <!-- Alaska User -->
+    <alaskaUser>
+      <ssn>666282303</ssn>
+      <firstName>DANNY</firstName>
+      <familyName>DUNCAN</familyName>
+      <dob>02/02/1973</dob>
+      <address>12175 GLACIER	HWY</address>
+      <city>JUNEAU</city>
+      <state>AK</state>
+      <zip>99801</zip>
+    </alaskaUser>
+    
+    <!-- California User -->
+    <californiaUser>
+      <ssn>666193191</ssn>
+      <firstName>RICK</firstName>
+      <familyName>NICK</familyName>
+      <dob>02/02/1945</dob>
+      <address>721 Sartori Ave</address>
+      <city>Torrance</city>
+      <state>CA</state>
+      <zip>90501</zip>
+    </californiaUser>
+    
+    <fssUser>
+        <!-- Idaho User -->
+    <user>
+      <firstName>MICHAEL,</firstName>
+      <familyName>JOYNER,</familyName>
+      <ssn>666559833,</ssn>      
+      <dob>02/02/1964,</dob>
+      <address>1616 SHETLAND CT,</address>
+      <city>MOSCOW,</city>
+      <state>ID,</state>
+      <zip>83843,</zip>
+      <phone>2098777231,</phone>
+    </user>
+    
+    <!-- Missouri User -->
+    <user>
+      <firstName>JESSIE,</firstName>
+      <familyName>HEATH,</familyName>
+      <ssn>666183420,</ssn>      
+      <dob>02/02/1943,</dob>
+      <address>3746 GARNER AVE,</address>
+      <city>KANSAS CITY,</city>
+      <state>MO,</state>
+      <zip>64124,</zip>
+      <phone>2098777231,</phone>
+    </user>
+
+    <!-- Nevada User -->
+    <user>
+      <firstName>ELLEN,</firstName>
+      <familyName>GREEN,</familyName>
+      <ssn>666629637,</ssn>
+      <dob>02/02/1956,</dob>
+      <address>2209 BRISTOL BAY CT,</address>
+      <city>LAS VEGAS,</city>
+      <state>NV,</state>
+      <zip>89108,</zip>
+      <phone>2098777231,</phone>
+    </user>
+    
+    <!-- Virginia User -->
+    <user>
+      <firstName>STEVEN,</firstName>
+      <familyName>WOOD,</familyName>
+      <ssn>666389859,</ssn>
+      <dob>02/02/1943,</dob>
+      <address>570 ROCKBRIDGE DR SE,</address>
+      <city>LEESBURG,</city>
+      <state>VA,</state>
+      <zip>20175,</zip>
+      <phone>2098777231,</phone>
+    </user>
+    
+    <!-- Washington User -->
+    <user>
+      <firstName>GLENN,</firstName>
+      <familyName>TATE,</familyName>
+      <ssn>666656076,</ssn>
+      <dob>02/02/1940,</dob>
+      <address>112 W FALCON AVE,</address>
+      <city>SPOKANE,</city>
+      <state>WA,</state>
+      <zip>99218,</zip>
+      <phone>2098777231,</phone>
+    </user>
+    
+    <!-- Alaska User -->
+    <user>
+      <firstName>DANNY,</firstName>
+      <familyName>DUNCAN,</familyName>
+      <ssn>666282303,</ssn>
+      <dob>02/02/1973,</dob>
+      <address>12175 GLACIER HWY,</address>
+      <city>JUNEAU,</city>
+      <state>AK,</state>
+      <zip>99801,</zip>
+      <phone>2098777231,</phone>
+    </user>
+    
+    <!-- California User -->
+    <user>
+      <firstName>RICK,</firstName>
+      <familyName>NICK,</familyName>
+      <ssn>666193191,</ssn>
+      <dob>02/02/1945,</dob>
+      <address>721 Sartori Ave,</address>
+      <city>Torrance,</city>
+      <state>CA,</state>
+      <zip>90501,</zip>
+      <phone>2098777231,</phone>
+    </user>
+    </fssUser>
+
+</Test_Data>
+

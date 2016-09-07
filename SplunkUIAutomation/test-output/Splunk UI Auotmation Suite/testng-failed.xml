@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Splunk UI Auotmation Suite]">
+  <listeners>
+    <listener class-name="com.splunk.listeners.SuiteListener"/>
+  </listeners>
+  <test name="User Groups Test cases(failed)">
+    <classes>
+      <class name="com.usergroups.tests.CreateUserGroupTest">
+        <methods>
+          <include name="prepareBeforeMethod"/>
+          <include name="prepareBeforeclass"/>
+          <include name="testVerifyCreateGroupFuntionality" invocation-numbers="0 1 2 3"/>
+          <include name="prepareBeforeSuite"/>
+        </methods>
+      </class> <!-- com.usergroups.tests.CreateUserGroupTest -->
+    </classes>
+  </test> <!-- User Groups Test cases(failed) -->
+</suite> <!-- Failed suite [Splunk UI Auotmation Suite] -->

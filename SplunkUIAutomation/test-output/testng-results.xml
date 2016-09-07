@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="66394" started-at="2016-09-07T11:39:03Z" finished-at="2016-09-07T11:40:09Z">
+    <groups>
+      <group name="Sanity">
+        <method signature="ApplyGroupLeaderTest.testverifyShowInterest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.usergroups.tests.ApplyGroupLeaderTest@eafd67c]" name="testverifyShowInterest" class="com.usergroups.tests.ApplyGroupLeaderTest"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="ApplyGroupLeaderTest.testverifyShowInterest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.usergroups.tests.ApplyGroupLeaderTest@eafd67c]" name="testverifyShowInterest" class="com.usergroups.tests.ApplyGroupLeaderTest"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test name="Default test" duration-ms="66394" started-at="2016-09-07T11:39:03Z" finished-at="2016-09-07T11:40:09Z">
+      <class name="com.usergroups.tests.ApplyGroupLeaderTest">
+        <test-method status="PASS" signature="prepareBeforeSuite()[pri:0, instance:com.usergroups.tests.ApplyGroupLeaderTest@eafd67c]" name="prepareBeforeSuite" is-config="true" duration-ms="20351" started-at="2016-09-07T17:08:43Z" finished-at="2016-09-07T17:09:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareBeforeSuite -->
+        <test-method status="PASS" signature="prepareBeforeClass()[pri:0, instance:com.usergroups.tests.ApplyGroupLeaderTest@eafd67c]" name="prepareBeforeClass" is-config="true" duration-ms="20" started-at="2016-09-07T17:09:03Z" finished-at="2016-09-07T17:09:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareBeforeClass -->
+        <test-method status="PASS" signature="testverifyShowInterest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.usergroups.tests.ApplyGroupLeaderTest@eafd67c]" name="testverifyShowInterest" duration-ms="39744" started-at="2016-09-07T17:09:03Z" data-provider="homePage" finished-at="2016-09-07T17:09:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mysore,India]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[schattaraki]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[rakkasagi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testverifyShowInterest -->
+        <test-method status="PASS" signature="prepareBeforeMethod()[pri:0, instance:com.usergroups.tests.ApplyGroupLeaderTest@eafd67c]" name="prepareBeforeMethod" is-config="true" duration-ms="0" started-at="2016-09-07T17:09:43Z" finished-at="2016-09-07T17:09:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareBeforeMethod -->
+        <test-method status="PASS" signature="testverifyShowInterest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.usergroups.tests.ApplyGroupLeaderTest@eafd67c]" name="testverifyShowInterest" duration-ms="26230" started-at="2016-09-07T17:09:43Z" data-provider="homePage" finished-at="2016-09-07T17:10:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tumkur,India]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sp_tester01]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[splunk16]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testverifyShowInterest -->
+        <test-method status="PASS" signature="prepareBeforeMethod()[pri:0, instance:com.usergroups.tests.ApplyGroupLeaderTest@eafd67c]" name="prepareBeforeMethod" is-config="true" duration-ms="0" started-at="2016-09-07T17:10:09Z" finished-at="2016-09-07T17:10:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareBeforeMethod -->
+      </class> <!-- com.usergroups.tests.ApplyGroupLeaderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Splunk UI Auotmation Suite" parallel="false">
+	<listeners>
+		<listener class-name="com.splunk.listeners.SuiteListener" />
+	</listeners>
+<test name="User Groups Test cases" preserve-order="true">
+		<classes>
+			<!-- <class name="com.usergroups.tests.GlobalFooterTest" /> -->
+			<!-- <class name="com.usergroups.tests.HomePageTests" />
+			<class name="com.splunk.tests.SplunkSemDownloadsTest" />
+			<class name="com.splunk.tests.FooterTest" /> -->
+			<!-- <class name="com.splunk.tests.SplunkEnterpriseDownloadsTest" />
+			<class name="com.splunk.tests.SplunkSemDownloadsTest" />
+			<class name="com.splunk.tests.SplunkLightDownloadsTest" /> -->
+			<!-- <class name="com.splunk.tests.SplunkHunkDownloadsTest" /> -->
+		<!-- 	<class name="com.splunk.tests.FooterTest" />
+			<class name="com.splunk.tests.SplunkSemDownloadsTest" />
+			<class name="com.splunk.tests.SplunkLightDownloadsTest" /> -->
+		<!--	<class name="com.usergroups.tests.GlobalFooterTest" /> -->
+			<!-- <class name="com.usergroups.tests.UserGroupsTest" /> -->
+			<class name="com.usergroups.tests.CreateUserGroupTest"/>
+<!-- 				<class name="com.usergroups.tests.HomePageTests"/> -->
+			
+		</classes>
+	</test>	
+</suite>

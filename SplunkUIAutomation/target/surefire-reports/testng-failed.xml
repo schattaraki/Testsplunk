@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Splunk UI Auotmation Suite]">
+  <listeners>
+    <listener class-name="com.splunk.listeners.SuiteListener"/>
+  </listeners>
+  <test name="User Groups Test cases(failed)">
+    <classes>
+      <class name="com.usergroups.tests.GlobalFooterTest">
+        <methods>
+          <include name="prepareBeforeClass"/>
+          <include name="testVerifyLandingPage"/>
+          <include name="prepareBeforeSuite"/>
+          <include name="testVerifyFooterSplunkUGLink" invocation-numbers="0"/>
+          <include name="prepareBeforeMethod"/>
+          <include name="prepareAfterSuite"/>
+        </methods>
+      </class> <!-- com.usergroups.tests.GlobalFooterTest -->
+    </classes>
+  </test> <!-- User Groups Test cases(failed) -->
+</suite> <!-- Failed suite [Splunk UI Auotmation Suite] -->

@@ -1,0 +1,57 @@
+2016-02-26 18:07:24,510 INFO  [ExcelUtil] - *********** Entering log.java readExcelData() ***********
+2016-02-26 18:07:24,809 INFO  [ExcelUtil] - *********** Exiting log.java readExcelData()  ***********
+2016-02-26 18:07:24,816 INFO  [FooterTest] - Verifying footer landing page
+2016-02-26 18:07:24,816 INFO  [PropertyManager] - key: qaEnv value: true
+2016-02-26 18:07:24,817 INFO  [PropertyManager] - key: qaurl value: http://www.qa.splunk.com/en_us/homepage.html
+2016-02-26 18:07:24,817 INFO  [FooterPage] - 
+
+URL: http://www.qa.splunk.com/en_us/homepage.html
+
+
+2016-02-26 18:07:24,817 INFO  [BasePage] - Opening url: http://www.qa.splunk.com/en_us/homepage.html
+2016-02-26 18:07:30,392 INFO  [FooterTest] - Verifying landing page title
+2016-02-26 18:07:30,425 INFO  [FooterTest] - Verified footer landing page
+2016-02-26 18:07:30,430 INFO  [TestBase] - Tag :: testVerifyFooterCopyRightsText
+2016-02-26 18:07:30,430 INFO  [PropertyManager] - key: EXCEL.FILE.PATH value: DataSheet//TestData.xls
+2016-02-26 18:07:30,430 INFO  [ExcelUtil] - *********** Entering log.java readExcelData() ***********
+2016-02-26 18:07:30,439 INFO  [ExcelUtil] - *********** Exiting log.java readExcelData()  ***********
+2016-02-26 18:07:30,440 INFO  [FooterTest] - Verifying footer copy rights text
+2016-02-26 18:07:32,504 INFO  [FooterPage] - Verifying Copy Rights text
+2016-02-26 18:07:32,540 INFO  [FooterTest] - Verified footer copy rights text
+2016-02-26 18:07:32,541 INFO  [FooterTest] - Verifying footer copy rights text
+2016-02-26 18:07:34,620 INFO  [FooterPage] - Verifying Copy Rights text
+2016-02-26 18:07:34,656 INFO  [FooterTest] - Verified footer copy rights text
+2016-02-26 18:07:34,658 INFO  [TestBase] - Tag :: testVerifyFooterLinks
+2016-02-26 18:07:34,658 INFO  [PropertyManager] - key: EXCEL.FILE.PATH value: DataSheet//TestData.xls
+2016-02-26 18:07:34,658 INFO  [ExcelUtil] - *********** Entering log.java readExcelData() ***********
+2016-02-26 18:07:34,663 INFO  [ExcelUtil] - *********** Exiting log.java readExcelData()  ***********
+2016-02-26 18:07:34,665 INFO  [FooterTest] - Verifying footer links
+2016-02-26 18:07:41,490 INFO  [FooterPage] - Verified Footer linktext ::Sitemap |
+2016-02-26 18:07:41,511 INFO  [FooterPage] - Verified target page URL::Sitemap |
+2016-02-26 18:07:41,541 INFO  [FooterTest] - Verifying footer links
+2016-02-26 18:07:49,235 INFO  [FooterPage] - Verified Footer linktext ::Contact|
+2016-02-26 18:07:49,266 INFO  [FooterPage] - Verified target page URL::Contact|
+2016-02-26 18:07:49,276 INFO  [FooterPage] - Verified target page Title::Contact|
+2016-02-26 18:07:50,906 INFO  [FooterTest] - Verified footer links
+2016-02-26 18:07:50,908 INFO  [FooterTest] - Verifying footer links
+2016-02-26 18:07:58,463 INFO  [FooterPage] - Verified Footer linktext ::Career|
+2016-02-26 18:07:58,484 INFO  [FooterPage] - Verified target page URL::Career|
+2016-02-26 18:07:58,514 INFO  [FooterPage] - Verified target page Title::Career|
+2016-02-26 18:08:00,057 INFO  [FooterTest] - Verified footer links
+2016-02-26 18:08:00,060 INFO  [FooterTest] - Verifying footer links
+2016-02-26 18:08:07,297 INFO  [FooterPage] - Verified Footer linktext ::Privacy|
+2016-02-26 18:08:07,318 INFO  [FooterPage] - Verified target page URL::Privacy|
+2016-02-26 18:08:07,348 INFO  [FooterPage] - Verified target page Title::Privacy|
+2016-02-26 18:08:08,864 INFO  [FooterTest] - Verified footer links
+2016-02-26 18:08:08,867 INFO  [FooterTest] - Verifying footer links
+2016-02-26 18:08:15,683 INFO  [FooterPage] - Verified Footer linktext ::Terms of UseNew|
+2016-02-26 18:08:15,704 INFO  [FooterPage] - Verified target page URL::Terms of UseNew|
+2016-02-26 18:08:15,714 INFO  [FooterPage] - Verified target page Title::Terms of UseNew|
+2016-02-26 18:08:17,278 INFO  [FooterTest] - Verified footer links
+2016-02-26 18:08:17,280 INFO  [FooterTest] - Verifying footer links
+2016-02-26 18:08:24,294 INFO  [FooterPage] - Verified Footer linktext ::Export Control
+2016-02-26 18:08:24,315 INFO  [FooterPage] - Verified target page URL::Export Control
+2016-02-26 18:08:24,335 INFO  [FooterPage] - Verified target page Title::Export Control
+2016-02-26 18:08:25,871 INFO  [FooterTest] - Verified footer links
+2016-02-26 18:08:25,915 INFO  [TestBase] - info - End of the Suite 
+2016-02-26 18:08:27,059 INFO  [TestBase] - info - Driver has been closed 

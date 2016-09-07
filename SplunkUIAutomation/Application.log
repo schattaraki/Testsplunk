@@ -1,0 +1,26 @@
+2016-09-07 17:09:03,454 INFO  [ExcelUtil] - *********** Entering log.java readExcelData() ***********
+2016-09-07 17:09:03,790 INFO  [ExcelUtil] - *********** Exiting log.java readExcelData()  ***********
+2016-09-07 17:09:03,800 INFO  [ApplyGroupLeaderTest] - Verifying Apply show Interse functionality
+2016-09-07 17:09:03,800 INFO  [PropertyManager] - key: findMoreGroupsInput value: //input[@id='find-group-input']
+2016-09-07 17:09:05,923 INFO  [PropertyManager] - key: findMoreGroupsInput value: //input[@id='find-group-input']
+2016-09-07 17:09:10,043 INFO  [PropertyManager] - key: KeepmeProceed value: //a[text()='Keep Me Posted']
+2016-09-07 17:09:12,142 INFO  [PropertyManager] - key: Signmeup value: //a[text()='Sign Me Up']
+2016-09-07 17:09:12,263 INFO  [PropertyManager] - key: username value: //input[@id='username']
+2016-09-07 17:09:29,688 INFO  [PropertyManager] - key: password value: //input[@id='password']
+2016-09-07 17:09:29,795 INFO  [PropertyManager] - key: submitBtn value: //input[@id='login-submit']
+2016-09-07 17:09:31,933 INFO  [PropertyManager] - key: usernameLink value: (//a[@role='button'])[3]
+2016-09-07 17:09:38,704 INFO  [PropertyManager] - key: logoutLink value: //a[text()='Logout']
+2016-09-07 17:09:43,534 INFO  [ApplyGroupLeaderTest] - Page Title::Find Splunk User Groups Anywhere in The Worlds
+2016-09-07 17:09:43,534 INFO  [ApplyGroupLeaderTest] - Verifying Apply show Interest functionality
+2016-09-07 17:09:43,540 INFO  [ApplyGroupLeaderTest] - Verifying Apply show Interse functionality
+2016-09-07 17:09:43,540 INFO  [PropertyManager] - key: findMoreGroupsInput value: //input[@id='find-group-input']
+2016-09-07 17:09:45,654 INFO  [PropertyManager] - key: findMoreGroupsInput value: //input[@id='find-group-input']
+2016-09-07 17:09:49,761 INFO  [PropertyManager] - key: KeepmeProceed value: //a[text()='Keep Me Posted']
+2016-09-07 17:09:51,843 INFO  [PropertyManager] - key: Signmeup value: //a[text()='Sign Me Up']
+2016-09-07 17:09:52,004 INFO  [PropertyManager] - key: username value: //input[@id='username']
+2016-09-07 17:09:57,147 INFO  [PropertyManager] - key: password value: //input[@id='password']
+2016-09-07 17:09:57,274 INFO  [PropertyManager] - key: submitBtn value: //input[@id='login-submit']
+2016-09-07 17:09:59,423 INFO  [PropertyManager] - key: usernameLink value: (//a[@role='button'])[3]
+2016-09-07 17:10:05,300 INFO  [PropertyManager] - key: logoutLink value: //a[text()='Logout']
+2016-09-07 17:10:09,767 INFO  [ApplyGroupLeaderTest] - Page Title::Find Splunk User Groups Anywhere in The Worlds
+2016-09-07 17:10:09,767 INFO  [ApplyGroupLeaderTest] - Verifying Apply show Interest functionality
